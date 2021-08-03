@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i love china
+=======
+creating a new branch is quick AND simple.
+>>>>>>> feature1
